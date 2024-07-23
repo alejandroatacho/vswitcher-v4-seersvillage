@@ -1,0 +1,1 @@
+This is just a simple woodcutter that chops and then banks regular logs/oaks at Seers village. Good start for irons etc who wants early woodcutting
